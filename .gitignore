@@ -1,0 +1,9 @@
+fish_history
+*_history
+ssh/
+id_rsa*
+known_hosts
+.DS_Store
+*.swp
+*.log
+kwallet*
